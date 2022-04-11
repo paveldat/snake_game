@@ -4,7 +4,7 @@ I first look into hand tracking and then I will use the hand landmarks to find g
 
 ## How to install
 1. Clone this repository on your computer
-`https://github.com/paveldat/gesture_volume_control_v2.git`
+`https://github.com/paveldat/snake_game.git`
 2. Install all the requirements
 `run libraries.bat`
 3. Run the program
