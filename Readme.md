@@ -41,4 +41,4 @@ Compute distance between head and each point.
 If any low below a threshold collision detected, then Game Over.
 
 ## Result
-
+![Alt Text](https://github.com/paveldat/snake_game/blob/main/img/result.gif)
