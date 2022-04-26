@@ -19,6 +19,7 @@ Increment this number until you see your webcam.
 ## Goal
 Move your index finger across the screen, guiding the snake with your finger.
 Donuts appear in random places, which you need to collect to increase the length of the snake's body, as well as increase your score.
+
 If you lose, press the "r" on your keyboard and start moving the snake further. Thus, the game will start over.
 
 ## Snake structure
